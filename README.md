@@ -2,6 +2,6 @@
 ### > Eu sou João Érik da Silva Crisóstomo, estudante de Desenvolvimento de Sistemas.
 ## Habilidades
 #### > Linguagens
->**Java, Javascript, Kotlin**
+>**Java, Javascript, Typescript, Kotlin**
 #### > FrameWorks
->**Bootstrap, springboot**
+>**Bootstrap, Springboot, Angular, Ionic**
