@@ -25,5 +25,6 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoerik2074@gmail.com)
 
 ##### MORE INFO ABOUT ME
-<img align="left" width="450em" src="https://github-readme-stats.vercel.app/api?username=joao-erik2077&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-<img align="right" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-erik2077&layout=compact&langs_count=7&theme=tokyonight">
+![Joao Erik's Github Stats](https://github-readme-stats.vercel.app/api?username=joao-erik2077&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
+</br>
+![Joao Erik's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-erik2077&theme=dark&layout=compact)
