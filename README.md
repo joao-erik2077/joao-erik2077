@@ -4,7 +4,7 @@
 const aboutMe = {
    name: 'João Érik da Silva Crisóstomo',
    age: 16,
-   code: [Javascript, Typescript, HTML, CSS, Sass, Java],
+   code: [Javascript, Typescript, HTML, CSS, Sass, Java, Arduino],
    technologies: {
       frontEnd: {
          js: ['React', 'Angular'],
