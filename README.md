@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
    name: 'João Érik da Silva Crisóstomo',
-   age: 16,
+   age: 17,
    code: [Javascript, Typescript, HTML, CSS, Sass, Java, Arduino],
    technologies: {
       frontEnd: {
