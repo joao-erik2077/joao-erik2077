@@ -8,15 +8,14 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ['React', 'Angular'],
-         css: ['Bootstrap']
+         css: ['Bootstrap', 'Tailwind']
       },
       backEnd: {
          java: ['Spring'],
-         js: ['Node', 'Express', 'DiscordJS'],
-         misc: ['Bash']
+         js: ['Node', 'Express', 'DiscordJS']
       },
-      databases: ['mySQL'],
-      mobile: ['Ionic']
+      databases: ['mySQL', 'PostgreSQL'],
+      mobile: ['Ionic', 'React Native']
    },
    currentOccupation: ['systems development student'],
 };
