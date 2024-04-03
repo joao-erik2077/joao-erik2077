@@ -1,9 +1,9 @@
-<p><em>A systems development student at <a href="https://www.cps.sp.gov.br/etecs/etec-cidade-do-livro/">Etec Cidade do Livro</a> 😊</br></em></p>
+<p><em>A systems development student at Unisagrado 😁👌</br></em></p>
 
 ```javascript
 const aboutMe = {
-   name: 'João Érik da Silva Crisóstomo',
-   age: 17,
+   name: 'João Erik da Silva Crisóstomo',
+   age: 18,
    code: [Javascript, Typescript, HTML, CSS, Sass, Java, Arduino],
    technologies: {
       frontEnd: {
