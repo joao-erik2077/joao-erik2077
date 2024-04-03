@@ -1,4 +1,4 @@
-<p><em>A systems development student at Unisagrado 😁👌</br></em></p>
+<p><em>A computer science student at Unisagrado 😁👌</br></em></p>
 
 ```javascript
 const aboutMe = {
@@ -17,6 +17,6 @@ const aboutMe = {
       databases: ['mySQL', 'PostgreSQL'],
       mobile: ['Ionic', 'React Native']
    },
-   currentOccupation: ['systems development student'],
+   currentOccupation: ['computer science student'],
 };
 ```
